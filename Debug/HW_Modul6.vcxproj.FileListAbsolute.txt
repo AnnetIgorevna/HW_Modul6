@@ -1,0 +1,4 @@
+D:\Разработчик C++\C++\SF\HW_Modul6\Debug\HW_Modul6.exe
+D:\SF\HW_Modul6\Debug\HW_Modul6.exe
+D:\SF\HW_Modul6\Debug\HW_Modul6.pdb
+D:\Разработчик C++\C++\SF\HW_Modul6 NEW\Debug\HW_Modul6.exe
